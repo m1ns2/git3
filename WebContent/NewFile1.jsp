@@ -11,5 +11,8 @@
 뭔가를 만든다
 뭔가를 만들었다
 끝냈다.
+I make Something
+I make Something...
+I made it.
 </body>
 </html>
